@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mememax-referral-code-invite-link.vercel.app/sitemap.xml
